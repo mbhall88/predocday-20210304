@@ -1,24 +1,16 @@
 +++
-title = "My presentation"
+title = "Nucleotide-resolution bacterial pan-genomics with reference graphs"
 outputs = ["Reveal"]
 +++
 
-# Hello world!
+### Nucleotide-resolution bacterial pan-genomics with reference graphs
 
-This is my first slide.
+Michael B. Hall $\in$ Iqbal Group
 
----
+**Predoc Seminar Day 2021**
 
-# Hello Mars!
+<br>
 
-This is my second slide
+Slides: <https://predocday2021-mhall.netlify.app/>  
+Source: <https://github.com/mbhall88/predocday-20210304>
 
----
-
-## Cool equations
-
-Displayed equations are wrapped in double-\$
-
-$$\frac{n!}{k!(n-k)!} = \binom{n}{k}$$  
-
-Inline equations like $E=mc^2$ are wrapped in single-\$
