@@ -1,6 +1,5 @@
-baseURL = "http://example.org/"
 languageCode = "en-gb"
-title = "My New Hugo Site"
+title = "Nucleotide-resolution bacterial pan-genomics with reference graphs"
 theme = "reveal-hugo"
 
 [markup.goldmark.renderer]
