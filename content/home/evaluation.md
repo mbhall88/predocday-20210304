@@ -29,5 +29,16 @@ A reference genome graph of 578 *E. coli* genomes (genes and intergenic regions)
 
 <img src="images/pg-variants.png"  style="border: none;">
 
+---
+
+## Precision
+
+todo: define and add plots
+
+---
+
+## Recall
+
+todo: define and add plots
 
 {{% /section %}}
