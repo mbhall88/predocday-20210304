@@ -33,7 +33,29 @@ A reference genome graph of 578 *E. coli* genomes (genes and intergenic regions)
 
 ## Precision
 
-todo: define and add plots
+> What proportion of the VCF calls made are correct?
+
+<p class="fragment fade-in-then-semi-out">
+Construct probe of called allele
+</p>
+
+<p class="fragment fade-in-then-semi-out">
+Map probe to sample's reference
+</p>
+
+<p class="fragment fade-in-then-semi-out">
+Filter multi-mappings and masked regions
+</p>
+
+<p class="fragment">
+number of matches / alignment length
+</p>
+
+---
+
+### Precision
+
+<img src="images/precision.png"  height="550" width="1100" style="border: none;">
 
 ---
 
