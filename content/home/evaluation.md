@@ -21,13 +21,13 @@ A reference genome graph of 578 *E. coli* genomes (genes and intergenic regions)
 
 ##### Constructing an evaluation set of diverse genomes
 
-<img src="images/tree.png" height="700" style="border: none;">
+<img src="images/tree.png" height="600" style="border: none;">
 
 ---
 
 ## Ground truth pan-genome variants
 
-<img src="images/pg-variants.png"  style="border: none;">
+<img src="images/pg-variants.png" style="border: none;">
 
 ---
 

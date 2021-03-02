@@ -7,16 +7,16 @@ weight = 6
 ### Acknowledgements
 
 <div style="display: flex;align-items: center;margin-left: auto; margin-right: auto; width: 50%;">
-    <img src="images/rachel.jpeg"  height="150" style="border: none;">
+    <img src="images/rachel.jpeg"  height="150" style="border: none;box-shadow: none">
     <span style="">Rachel Colquhuon</span>
 </div>
 
 <div style="display: flex;align-items: center;">
-    <img src="images/leandro.jpg"  height="100" style="border: none;">
+    <img src="images/leandro.jpg"  height="100" style="border: none;box-shadow: none">
     <span style="">Leandro Ishi</span>
-    <img src="images/zam.jpg"  height="100" style="border: none;">
+    <img src="images/zam.jpg"  height="100" style="border: none;box-shadow: none">
     <span style="">Zam Iqbal</span>
-    <img src="images/leah.jpg"  height="100" style="border: none;">
+    <img src="images/leah.jpg"  height="100" style="border: none;box-shadow: none">
     <span style="">Leah Roberts</span>
 </div>
 
@@ -32,7 +32,7 @@ weight = 6
 </div>
 
 <div style="display: flex;align-items: center;margin-left: auto; margin-right: auto; width: 50%;">
-    <img src="images/so.png"  height="80" style="border: none;">
+    <img src="images/so.png"  height="80" style="border: none;box-shadow: none">
 </div>
 
 
