@@ -25,12 +25,6 @@ A reference genome graph of 578 *E. coli* genomes (genes and intergenic regions)
 
 ---
 
-## Ground truth pan-genome variants
-
-<img src="images/pg-variants.png" style="border: none;">
-
----
-
 ### Precision
 
 > What proportion of the VCF calls made are correct?
@@ -61,6 +55,14 @@ number of matches / alignment length
 
 ### Recall
 
+Ground truth pan-genome variants
+
+<img src="images/pg-variants.png" style="border: none;">
+
+---
+
+### Recall
+
 > What proportion of true variants do we find?
 
 <p class="fragment fade-in-then-semi-out">
@@ -68,7 +70,7 @@ Apply VCF calls to the reference the calls were made against
 </p>
 
 <p class="fragment fade-in-then-semi-out">
-Make probes for each allele of each pan-genome variant
+Make probes for each pan-genome (truth) variant
 </p>
 
 <p class="fragment fade-in-then-semi-out">

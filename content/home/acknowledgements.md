@@ -38,4 +38,3 @@ weight = 6
 <https://predocday2021-mhall.netlify.app/>
 
 {{% /section %}}
-
