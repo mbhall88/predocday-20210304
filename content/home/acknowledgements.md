@@ -4,7 +4,7 @@ weight = 6
 +++
 {{% section %}}
 
-### Acknowledgements
+#### Acknowledgements
 
 <div style="display: flex;align-items: center;margin-left: auto; margin-right: auto; width: 50%;">
     <img src="images/rachel.jpeg"  height="150" style="border: none;box-shadow: none">
@@ -32,9 +32,10 @@ weight = 6
 </div>
 
 <div style="display: flex;align-items: center;margin-left: auto; margin-right: auto; width: 50%;">
-    <img src="images/so.png"  height="80" style="border: none;box-shadow: none">
+    <img src="images/so.png"  height="50" style="border: none;box-shadow: none">
 </div>
 
 <https://predocday2021-mhall.netlify.app/>
 
 {{% /section %}}
+
